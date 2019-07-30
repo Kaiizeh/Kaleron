@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1543411941 source:c:\users\k.thibo\desktop\test\+ ou -\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"mode.h"
+
+1543317492 c:\users\k.thibo\desktop\test\+ ou -\mode.h
+
+1543330173 source:c:\users\k.thibo\desktop\test\+ ou -\mode.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1543411904 source:c:\users\k.thibo\desktop\test\+ ou -\pendu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
+1543402032 c:\users\k.thibo\desktop\test\+ ou -\pendu.h
+
+1543411883 c:\users\k.thibo\desktop\test\+ ou -\dico.h
+
+1543411883 source:c:\users\k.thibo\desktop\test\+ ou -\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1543409000 source:c:\users\k.thibo\desktop\+ ou -\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1543409000 c:\users\k.thibo\desktop\+ ou -\dico.h
+
+1544697300 source:c:\users\k.thibo\desktop\+ ou -\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"mode.h"
+
+1543408994 c:\users\k.thibo\desktop\+ ou -\mode.h
+
+1544691461 source:c:\users\k.thibo\desktop\+ ou -\mode.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1543408992 source:c:\users\k.thibo\desktop\+ ou -\pendu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
+1544712672 source:c:\users\k.thibo\desktop\+ ou -\combat.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+
+1544710677 c:\users\k.thibo\desktop\+ ou -\combat.h
+
+1544712759 source:c:\users\k.thibo\desktop\+ ou -\magazin.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+
+1544710956 source:c:\users\k.thibo\desktop\+ ou -\rpg.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+
+1544711225 source:c:\users\k.thibo\desktop\+ ou -\spell.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+

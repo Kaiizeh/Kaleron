@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1544709106 source:c:\users\btss18kthibo\desktop\+ ou -\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1544709106 c:\users\btss18kthibo\desktop\+ ou -\dico.h
+
+1544709100 source:c:\users\btss18kthibo\desktop\+ ou -\magazin.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+
+1544709108 c:\users\btss18kthibo\desktop\+ ou -\combat.h
+
+1544709098 source:c:\users\btss18kthibo\desktop\+ ou -\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"mode.h"
+
+1544709096 c:\users\btss18kthibo\desktop\+ ou -\mode.h
+
+1544709098 source:c:\users\btss18kthibo\desktop\+ ou -\mode.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1544709094 source:c:\users\btss18kthibo\desktop\+ ou -\pendu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
+1544709092 source:c:\users\btss18kthibo\desktop\+ ou -\rpg.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+
+1544709092 source:c:\users\btss18kthibo\desktop\+ ou -\spell.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+
+1564056430 source:c:\users\k.thibo\desktop\pro\+ ou -\combat.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+
+1564410160 c:\users\k.thibo\desktop\pro\+ ou -\combat.h
+
+1544709106 source:c:\users\k.thibo\desktop\pro\+ ou -\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1544709106 c:\users\k.thibo\desktop\pro\+ ou -\dico.h
+
+1564407562 source:c:\users\k.thibo\desktop\pro\+ ou -\magazin.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+
+1544709098 source:c:\users\k.thibo\desktop\pro\+ ou -\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"mode.h"
+
+1544709096 c:\users\k.thibo\desktop\pro\+ ou -\mode.h
+
+1560504853 source:c:\users\k.thibo\desktop\pro\+ ou -\mode.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1544709094 source:c:\users\k.thibo\desktop\pro\+ ou -\pendu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
+1561385582 source:c:\users\k.thibo\desktop\pro\+ ou -\rpg.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+
+1564409117 source:c:\users\k.thibo\desktop\pro\+ ou -\spell.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"combat.h"
+
